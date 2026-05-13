@@ -1,0 +1,8 @@
+(supertux-music
+  (file "four_winter.ogg")
+  (title "Four (Winter)")
+  (authors "pheonton")
+  (license "CC-BY-SA 3.0")
+  (loop-begin 0)
+  (loop-at    -1)
+)

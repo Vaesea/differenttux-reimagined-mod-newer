@@ -1,0 +1,8 @@
+(supertux-music
+  (file "easy_joy.ogg")
+  (title "Easy Joy")
+  (authors "Arthur")
+  (license "CC-BY-SA 3.0 + GPL 2 + GPL 3")
+  (loop-begin 0)
+  (loop-at    -1)
+)

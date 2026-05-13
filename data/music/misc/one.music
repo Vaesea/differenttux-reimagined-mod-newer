@@ -1,0 +1,8 @@
+(supertux-music
+  (file "one.ogg")
+  (title "One")
+  (authors "Pheonton")
+  (license "CC-BY 3.0")
+  (loop-begin 0)
+  (loop-at    -1)
+)

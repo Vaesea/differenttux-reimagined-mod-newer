@@ -1,0 +1,8 @@
+(supertux-music
+  (file "forestmap.ogg")
+  (authors "Marek \"Wansti\" Moeckel")
+  (license "Likely GPL 2?")
+  (title "Forest Map")
+  (loop-begin 0)
+  (loop-at    -1)
+)

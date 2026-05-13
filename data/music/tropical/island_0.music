@@ -1,0 +1,8 @@
+(supertux-music
+  (file "island_0.ogg")
+  (title "Feel Good Island")
+  (authors "Brandon75689")
+  (license "CC0 + OGA-BY 3.0")
+  (loop-begin 0)
+  (loop-at    -1)
+)

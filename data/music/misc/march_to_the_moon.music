@@ -1,0 +1,8 @@
+(supertux-music
+  (file "march_to_the_moon.ogg")
+  (title "March To The Moon")
+  (authors "Mega Pixel Music Lab")
+  (license "CC-BY-SA 3.0 + GPL 2.0")
+  (loop-begin 0)
+  (loop-at    -1)
+)

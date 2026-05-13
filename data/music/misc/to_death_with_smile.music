@@ -1,0 +1,8 @@
+(supertux-music
+  (file "to_death_with_smile.ogg")
+  (title "Little War March or To Death With A Smile")
+  (authors "Alexandr Zhelanov")
+  (license "CC-BY 4.0")
+  (loop-begin 0)
+  (loop-at    -1)
+)

@@ -1,0 +1,8 @@
+(supertux-music
+  (file "christmas_eve.ogg")
+  (title "Christmas Eve")
+  (authors "Michael Spect (www.soundspect.com)")
+  (license "CC-BY 3.0")
+  (loop-begin 0)
+  (loop-at    -1)
+)

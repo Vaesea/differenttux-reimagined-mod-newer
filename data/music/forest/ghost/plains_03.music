@@ -1,0 +1,8 @@
+(supertux-music
+  (file "plains_03.ogg")
+  (title "Plains 03")
+  (authors "Beau Buckley")
+  (license "CC-BY-SA 4.0")
+  (loop-begin 0)
+  (loop-at    -1)
+)

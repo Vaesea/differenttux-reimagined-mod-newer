@@ -1,0 +1,8 @@
+(supertux-music
+  (file "swamp_01.ogg")
+  (title "Swamp 01")
+  (authors "Beau Buckley")
+  (license "CC-BY-SA 4.0")
+  (loop-begin 0)
+  (loop-at    -1)
+)
