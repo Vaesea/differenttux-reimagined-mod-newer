@@ -77,7 +77,7 @@ BonusBlock::BonusBlock(const Vector& pos, int tile_data) :
 }
 
 BonusBlock::BonusBlock(const ReaderMapping& mapping) :
-  Block(mapping, "images/objects/bonus_block/bonusblock.sprite"),
+  Block(mapping, "images/objects/bonus_block/snowyland/bonusblock.sprite"),
   m_contents(Content::COIN),
   m_objects(),
   m_object(),

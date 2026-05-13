@@ -24,7 +24,7 @@ class Brick : public Block
 {
 public:
   Brick(const Vector& pos, int data, const std::string& sprite_name);
-  Brick(const ReaderMapping& mapping, const std::string& sprite_name = "images/objects/bonus_block/brick.sprite");
+  Brick(const ReaderMapping& mapping, const std::string& sprite_name = "images/objects/brick/sl_brick.sprite");
 
   virtual HitResponse collision(MovingObject& other, const CollisionHit& hit) override;
   virtual ObjectSettings get_settings() override;

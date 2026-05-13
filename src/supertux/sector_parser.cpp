@@ -46,9 +46,9 @@
 
 namespace
 {
-  static const std::string DEFAULT_BG = "images/background/antarctic/snow_hills.png";
+  static const std::string DEFAULT_BG = "images/background/misc/transparent_up.png";
   static const std::string DEFAULT_BG_TOP = "images/background/misc/transparent_up.png";
-  static const std::string DEFAULT_BG_BOTTOM = "images/background/antarctic/snow_bottom.png";
+  static const std::string DEFAULT_BG_BOTTOM = "images/background/misc/transparent_up.png";
 }
 
 std::unique_ptr<Sector>

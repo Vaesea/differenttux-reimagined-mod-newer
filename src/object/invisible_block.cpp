@@ -22,7 +22,7 @@
 #include "supertux/constants.hpp"
 
 InvisibleBlock::InvisibleBlock(const ReaderMapping& mapping) :
-  Block(mapping, "images/objects/bonus_block/invisibleblock.sprite"),
+  Block(mapping, "images/objects/bonus_block/snowyland/hiddenbonus.sprite"),
   visible(false)
 {
   parse_type(mapping);

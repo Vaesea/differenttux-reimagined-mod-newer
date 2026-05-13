@@ -56,7 +56,7 @@
     (icon "images/creatures/stalactite/stalactite_ice.png"))
   (object
     (class "fish-harmless")
-    (icon "images/creatures/fish/ice/swim_orange-0.png"))
+    (icon "images/creatures/fish/swim_blue-0.png"))
   (object
     (class "fish-swimming")
     (icon "images/creatures/fish/ice/swim_blue-0.png"))
@@ -99,9 +99,6 @@
   (object
     (class "corrupted_granito")
     (icon "images/creatures/granito/corrupted/idle_left-0.png"))
-  (object
-    (class "corrupted_granito_big")
-    (icon "images/creatures/granito/corrupted/big/rock_mine-0.png"))
   (object
     (class "darttrap")
     (icon "images/creatures/darttrap/granito/empty_left.png"))
@@ -188,7 +185,7 @@
   (worldmap #f)
   (object
     (class "bonusblock")
-    (icon "images/objects/bonus_block/full-0.png"))
+    (icon "images/objects/bonus_block/snowyland/block-0.png"))
   (object
     (class "infoblock")
     (icon "images/objects/bonus_block/infoblock-0.png"))
@@ -197,13 +194,10 @@
     (icon "images/objects/bonus_block/bonus-invisible.png"))
   (object
     (class "brick")
-    (icon "images/tiles/blocks/brick0.png"))
-  (object
-    (class "heavy-brick")
-    (icon "images/tiles/blocks/brick3.png"))
+    (icon "images/objects/brick/sl_brick.png"))
   (object
     (class "coin")
-    (icon "images/objects/coin/coin-0.png"))
+    (icon "images/objects/coin/fishcoin.png"))
   (object
     (class "heavycoin")
     (icon "images/engine/editor/heavy_coin.png"))
@@ -217,23 +211,11 @@
     (class "firefly")
     (icon "images/engine/editor/resetpoint.png"))
   (object
-    (class "granito")
-    (icon "images/creatures/granito/granito_stand-0.png"))
-  (object
-    (class "granito_big")
-    (icon "images/creatures/granito/big/granito_stand-0.png"))
-  (object
-    (class "granito_giant")
-    (icon "images/creatures/granito/giant/granito_sleep-0.png"))
-  (object
     (class "dispenser")
     (icon "images/creatures/dispenser/dropper.png"))
   (object
     (class "ispy")
     (icon "images/objects/ispy/i-idle.png"))
-;;(object
-;;  (class "path")
-;;  (icon "images/engine/editor/path.png"))
   (object
     (class "platform")
     (icon "images/engine/editor/flyingplatform.png"))
