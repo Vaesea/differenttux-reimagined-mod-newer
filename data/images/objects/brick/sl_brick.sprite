@@ -1,0 +1,39 @@
+(supertux-sprite
+      (action
+         (name "empty")
+         (images "sl_empty.png"))
+
+ (action
+  (name "default")
+  (images "sl_brick.png"))
+
+ (action
+  (name "piece1")
+  (fps 1)
+  (images "sl_brick_piece.png"))
+
+ (action
+  (name "piece2")
+  (fps 1)
+  (images "sl_brick_piece.png"))
+
+ (action
+  (name "piece3")
+  (fps 1)
+  (images "sl_brick_piece.png"))
+
+ (action
+  (name "piece4")
+  (fps 1)
+  (images "sl_brick_piece.png"))
+
+ (action
+  (name "piece5")
+  (fps 1)
+  (images "sl_brick_piece.png"))
+
+ (action
+  (name "piece6")
+  (fps 1)
+  (images "sl_brick_piece.png"))
+ )

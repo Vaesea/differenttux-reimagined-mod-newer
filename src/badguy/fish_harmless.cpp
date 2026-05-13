@@ -17,7 +17,7 @@
 #include "badguy/fish_harmless.hpp"
 
 FishHarmless::FishHarmless(const ReaderMapping& reader) :
-  FishSwimming(reader, "images/creatures/fish/ice/goldfish.sprite")
+  FishSwimming(reader, "images/creatures/fish/bluefish.sprite")
 {
   m_can_glint = false;
 }

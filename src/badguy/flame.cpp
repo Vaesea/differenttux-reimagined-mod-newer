@@ -31,13 +31,13 @@
 static const std::string FLAME_SOUND = "sounds/flame.wav";
 
 Flame::Flame(const ReaderMapping& reader, int type) :
-  BadGuy(reader, "images/creatures/flame/flame.sprite", LAYER_FLOATINGOBJECTS,
+  BadGuy(reader, "images/creatures/evilstar/evilstar.sprite", LAYER_FLOATINGOBJECTS,
          "images/objects/lightmap_light/lightmap_light-small.sprite"),
   angle(0),
   radius(),
   speed(),
   sound_source(),
-  m_radius_indicator(Surface::from_file("images/creatures/flame/flame-editor.png"))
+  m_radius_indicator(Surface::from_file("images/creatures/evilstar/evilstar-editor.png"))
 {
   if (type >= 0)
   {

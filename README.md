@@ -1,97 +1,35 @@
-# SuperTux
+# DifferentTux Reimagined
 
-[![Windows](https://github.com/SuperTux/supertux/actions/workflows/windows.yml/badge.svg?branch=master)](https://github.com/SuperTux/supertux/actions/workflows/windows.yml?branch=master)
-[![MacOS](https://github.com/SuperTux/supertux/actions/workflows/macos.yml/badge.svg?branch=master)](https://github.com/SuperTux/supertux/actions/workflows/macos.yml?branch=master)
-[![GNU/Linux](https://github.com/SuperTux/supertux/actions/workflows/gnulinux.yml/badge.svg?branch=master)](https://github.com/SuperTux/supertux/actions/workflows/gnulinux.yml?branch=master)
-[![Android](https://github.com/SuperTux/supertux/actions/workflows/android.yml/badge.svg?branch=master)](https://github.com/SuperTux/supertux/actions/workflows/android.yml?branch=master)
-[![FreeBSD](https://github.com/SuperTux/supertux/actions/workflows/freebsd.yml/badge.svg?branch=master)](https://github.com/SuperTux/supertux/actions/workflows/freebsd.yml?branch=master)
-[![WebAssembly](https://github.com/SuperTux/supertux/actions/workflows/wasm.yml/badge.svg?branch=master)](https://github.com/SuperTux/supertux/actions/workflows/wasm.yml?branch=master)
-[![Github All Releases](https://img.shields.io/github/downloads/supertux/supertux/total.svg?maxAge=2592000)](https://github.com/SuperTux/supertux)
+DifferentTux is a mod of SuperTux v0.7. The story should explain things a lot
+better.
 
-SuperTux is a jump'n'run game with strong inspiration from the
-Super Mario Bros. games for the various Nintendo platforms.
+## Story: Nolok changes the world! In a bad way. 
 
-Run and jump through multiple worlds, fighting off enemies by jumping
-on them, bumping them from below or tossing objects at them, grabbing
-power-ups and other stuff on the way.
-
-![Screenshot](https://www.supertux.org/images/0_7_0/github_preview.png)
-
-
-## Story: Penny gets captured!
-
-Tux and Penny were out having a nice picnic on the ice fields of
-Antarctica. Suddenly, a creature jumped from behind an ice bush, there
-was a flash, and Tux fell asleep!
-
-When Tux wakes up, he finds that Penny is missing. Where she lay
-before now lies a letter:
->Tux, my arch enemy! I have captured your beautiful Penny and have
->taken her to my fortress. The path to my fortress is littered with my
->minions. Give up on the thought of trying to reclaim her, you haven't
->got a chance!
->
->-Nolok
-
-Tux looks and sees Nolok's fortress in the distance. Determined to
-save his beloved Penny, he begins his journey.
+Nolok does an experiment that goes wrong and brings everything to a different 
+universe that has nothing to do with Tux Junior except from the fact that somehow, 
+there are Tux Junior statues. Anyways, Tux wakes up in this weird universe, thinks 
+that Nolok did this (he's correct), and decides to find Nolok. However, Nolok 
+already knows what Tux is doing so he goes to a different place this time. How 
+does he know? Well in this universe, Nolok has cameras everywhere, and he learns 
+that very quickly somehow)
 
 ## Installation
 
-For major platforms, stable releases are built and available for download from
-[supertux.org](https://www.supertux.org/download.html) or alternatively directly
-from [GitHub](https://github.com/SuperTux/supertux/releases). You should be able
-to install these using default tools provided by your platform. On macOS, when
-Gatekeeper is enabled (default) it will refuse to open SuperTux. This is due to
-the lack of a signature on the application. If you wish to open SuperTux anyway
-without disabling the Gatekeeper feature entirely, you can open the application
-from the context menu (control click on the icon). macOS will then remember your
-choice the next time.
+Github Actions, for now.
 
-## Documentation
+## ACTUALLY PLEASE READ THIS (and the credits too)
+Only play the portable version of the Windows version. I recommend doing that using wine if you use Linux.
 
-Important documentation for SuperTux is contained in multiple files.
-Please see them:
+If you have no other choice, or you don't want to use wine, move your save folder before playing.
 
-* `INSTALL.md` - Requirements, compiling and installing.
-* `README.md` - This file
-* `NEWS.md` - Changes since the previous versions of SuperTux.
-* `LICENSE.txt` - The GNU General Public License, under whose terms SuperTux is
-licensed. (Most of the data subdirectory is also licensed under
-CC-by-SA)
-* `data/credits.stxt` - Credits for people that contributed to the creation of
-SuperTux. (You can view these in the game menu as well.)
+Also, don't run "run_supertux.bat", run "run_supertux_portable.bat"
 
+No idea what you're supposed to do on Mac.
 
-## Playing the game
+Soon, the save folder will be changed, but I've not done that yet.
 
-Both keyboards and joysticks/gamepads are supported. You can view/change the
-controls via **options > controls**. Basically, the only controls you will need
-to use in-game are the following: jump, duck, move left & right, do an action,
-and use the item pocket. An "action" allows you to pick up objects and use any
-powerup you have, such as shooting fireballs with the fire flower, or to fire
-ice pellets with the ice flower. The item pocket allows you to store a single
-additional item, which can be useful in dire situations.
-
-Other useful keys include the Esc key, which is used to go to the menu
-or to go up a level in the menu. The menu can be navigated using the
-arrow keys or the mouse.
-
-## Community
-
-In case you need help, feel free to reach out using the following means:
-
-* **IRC:** [#supertux](ircs://irc.libera.chat/#supertux) on
-  [Libera Chat](https://libera.chat) hosts most of the discussions between
-  developers. Also, real-time support can be provided here. If you don't know
-  how to use an IRC client, you access the channel using a web-based
-  [client](https://kiwiirc.com/nextclient/irc.libera.chat:+6697/?nick=Guest?#supertux).
-  Please stay around after asking questions, otherwise you will be disconnected
-  and might miss potential answers.
-* **[Forum](https://groups.f-hub.org/supertux):** The SuperTux
-  community is also active on the forum, the discussions range from feature
-  proposals to support questions. In particular, most community-contributed
-  add-ons are published there, so this is worth checking.
-* **Social Media:** Mostly on [Twitter](https://twitter.com/supertux_team) at
-  the moment.
-* **Discord:** Also, you can join our [Discord server](https://discord.com/invite/AcvtHWz) to get in touch with us.
+## Credits
+* SuperTux Team - SuperTux
+* Stephen Groundwater - Tux Junior and Forest World Adventure Pack (this is inspired by both of those) (there's also a tux junior statue)
+* Vaesea - Art, Test Level
+* FilipOK - Art

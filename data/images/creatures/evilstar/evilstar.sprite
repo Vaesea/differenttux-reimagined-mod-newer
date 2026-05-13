@@ -1,0 +1,19 @@
+(supertux-sprite
+ (action
+  (hitbox 6 6 20 21)
+  (name "default")
+  (images "evilstar.png"))
+ (action
+  (hitbox 6 6 20 21)
+  (name "fade")
+  (fps 15)
+  (images "evilstar.png"
+          "evilstar-fade-0.png"
+          "evilstar-fade-1.png"
+          "evilstar-fade-2.png"))
+ (action
+  (hitbox 0 0 32 32)
+  (name "editor")
+  (images "evilstar.png"))
+)
+
