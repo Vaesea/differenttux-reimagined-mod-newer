@@ -6,12 +6,10 @@ better.
 ## Story: Nolok changes the world! In a bad way. 
 
 Nolok does an experiment that goes wrong and brings everything to a different 
-universe that has nothing to do with Tux Junior except from the fact that somehow, 
+universe that has nothing to do with Tux Junior? except from the fact that somehow, 
 there are Tux Junior statues. Anyways, Tux wakes up in this weird universe, thinks 
 that Nolok did this (he's correct), and decides to find Nolok. However, Nolok 
-already knows what Tux is doing so he goes to a different place this time. How 
-does he know? Well in this universe, Nolok has cameras everywhere, and he learns 
-that very quickly somehow)
+already knows what Tux is doing so he goes to a different place this time.
 
 ## Installation
 
@@ -33,3 +31,6 @@ Soon, the save folder will be changed, but I've not done that yet.
 * Stephen Groundwater - Tux Junior and Forest World Adventure Pack (this is inspired by both of those) (there's also a tux junior statue)
 * Vaesea - Art, Test Level
 * FilipOK - Art
+
+## Things up for discussion:
+- Should Tux Junior (character) play a role in the story?
